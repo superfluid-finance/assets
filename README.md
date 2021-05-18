@@ -1,0 +1,2 @@
+# assets
+Superfluid hosted assets.
