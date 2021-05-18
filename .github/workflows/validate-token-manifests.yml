@@ -2,7 +2,6 @@ name: Validate Token Manifests
 
 on:
   push:
-    branches-ignore: ["master"]
 
 jobs:
 

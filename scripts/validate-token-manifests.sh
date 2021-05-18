@@ -3,6 +3,12 @@
 PUBLIC_PATH="$(readlink -f "$(dirname "$0")"/../public)"
 cd "$PUBLIC_PATH"/tokens
 
+# install xml2 utils first
+[ "$USER" == "root" ] && apt-get update && \
+    apt-get -y --no-install-recommends install libxml2-utils && \
+    apt-get autoremove -y && \
+    apt-get clean
+
 function oops {
   echo "$@" >&2
   exit 1
@@ -17,6 +23,7 @@ function VALIDATE_MANIFEST_V0 {
   # .svgIconPath
   SVG_ICON_PATH=$(jq -r .svgIconPath "$MANIFEST")
   [ -f "$PUBLIC_PATH/$SVG_ICON_PATH" ] || oops "SVG icon path is invalid: $SVG_ICON_PATH"
+  xmllint --noout "$PUBLIC_PATH/$SVG_ICON_PATH"
   echo "SVG icon path: $SVG_ICON_PATH"
   # .isSuperToken
   IS_SUPER_TOKEN=$(jq -r .isSuperToken "$MANIFEST")
