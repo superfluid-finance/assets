@@ -3,12 +3,6 @@
 PUBLIC_PATH="$(readlink -f "$(dirname "$0")"/../public)"
 cd "$PUBLIC_PATH"/tokens
 
-# install xml2 utils first
-[ "$USER" == "root" ] && apt-get update && \
-    apt-get -y --no-install-recommends install libxml2-utils && \
-    apt-get autoremove -y && \
-    apt-get clean
-
 function oops {
   echo "$@" >&2
   exit 1
