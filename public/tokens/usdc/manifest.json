@@ -3,6 +3,5 @@
   "type": "ERC20",
   "isSuperToken": false,
   "svgIconPath": "/tokens/usdc/icon.svg",
-  "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#2775ca"
 }

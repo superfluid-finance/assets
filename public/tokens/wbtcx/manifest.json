@@ -3,5 +3,6 @@
   "type": "ERC20",
   "svgIconPath": "/tokens/wbtc/icon.svg",
   "isSuperToken": true,
+  "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#201A2D"
 }

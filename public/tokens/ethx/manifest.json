@@ -2,6 +2,8 @@
   "version": "2021-05-18",
   "type": "ERC20",
   "svgIconPath": "/tokens/eth/icon.svg",
-  "isSuperToken": false,
+  "isSuperToken": true,
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["SETH"],
   "defaultColor":"#141414"
 }

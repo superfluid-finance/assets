@@ -3,5 +3,6 @@
   "type": "ERC20",
   "svgIconPath": "/tokens/workt/icon.svg",
   "isSuperToken": true,
+  "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#ff583d"
 }
