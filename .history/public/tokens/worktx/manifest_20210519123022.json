@@ -1,0 +1,7 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/workt/icon.svg",
+  "isSuperToken": true,
+  "defaultColorCode":""
+}

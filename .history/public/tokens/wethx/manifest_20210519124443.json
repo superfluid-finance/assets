@@ -1,0 +1,7 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/eth/icon.svg",
+  "isSuperToken": true,
+  "defaultColor":"#201A2D"
+}

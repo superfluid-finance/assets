@@ -1,0 +1,8 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/tusd/icon.svg",
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#2775ca"
+}
