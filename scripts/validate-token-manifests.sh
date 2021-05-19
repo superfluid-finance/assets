@@ -19,6 +19,10 @@ function VALIDATE_MANIFEST_V0 {
   [ -f "$PUBLIC_PATH/$SVG_ICON_PATH" ] || oops "SVG icon path is invalid: $SVG_ICON_PATH"
   xmllint --noout "$PUBLIC_PATH/$SVG_ICON_PATH"
   echo "SVG icon path: $SVG_ICON_PATH"
+  # .defaultColor
+  DEFAULT_COLOR=$(jq -r .defaultColor "$MANIFEST")
+  [ -z "$DEFAULT_COLOR" ] && oops "Default color is not specified"
+  echo "Default color: $DEFAULT_COLOR"
   # .isSuperToken
   IS_SUPER_TOKEN=$(jq -r .isSuperToken "$MANIFEST")
   if [ "$IS_SUPER_TOKEN" == "true" ];then
@@ -33,6 +37,7 @@ function VALIDATE_MANIFEST_V0 {
       SUPER_TOKEN_CUSTOM_PROPERTIES=$(jq -r ".superTokenCustomProperties|.[]" "$MANIFEST")
       for i in $SUPER_TOKEN_CUSTOM_PROPERTIES;do
         [ "$i" == "SETH" ] && echo "  - Using SETH contract" && continue
+        [ "$i" == "PRE_MINTED" ] && echo "  - Is pre-minted" && continue
         oops "Unknown super token custom property: $i"
       done
     else

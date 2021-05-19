@@ -1,7 +1,7 @@
 {
   "version": "2021-05-18",
   "type": "NATIVE_COIN",
-  "svgIconPath": "/tokens/dai/icon.svg",
+  "svgIconPath": "/tokens/eth/icon.svg",
   "isSuperToken": false,
-  "defaultColor":"#F5AC37"
+  "defaultColor":"#141414"
 }

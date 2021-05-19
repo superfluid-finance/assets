@@ -1,9 +1,9 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "svgIconPath": "/tokens/matic/icon.svg",
+  "svgIconPath": "/tokens/eth/icon.svg",
   "isSuperToken": true,
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["SETH"],
-  "defaultColor":"#2991F9"
+  "defaultColor":"#141414"
 }

@@ -4,5 +4,6 @@
   "svgIconPath": "/tokens/dai/icon.svg",
   "isSuperToken": true,
   "superTokenType": "CUSTOM",
-  "superTokenCustomProperties": ["SETH"]
+  "superTokenCustomProperties": ["SETH"],
+  "defaultColor":"#F5AC37"
 }

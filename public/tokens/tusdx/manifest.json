@@ -2,7 +2,7 @@
   "version": "2021-05-18",
   "type": "ERC20",
   "isSuperToken": true,
-  "svgIconPath": "/tokens/dai/icon.svg",
+  "svgIconPath": "/tokens/tusd/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
-  "defaultColor":"#F5AC37"
+  "defaultColor":"#002868"
 }
