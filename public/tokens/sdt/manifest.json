@@ -1,9 +1,9 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
+  "svgIconPath": "/tokens/sdt/icon.svg",
   "isSuperToken": false,
-  "svgIconPath": "/tokens/tusd/icon.svg",
-  "defaultColor":"#002868",
-  "coingeckoId": "true-usd",
+  "defaultColor":"#10153D",
+  "coingeckoId": "stake-dao",
   "roundCurrencyUpto": "2"
 }

@@ -5,5 +5,7 @@
   "svgIconPath": "/tokens/miva/icon.svg",
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["PRE_MINTED"],
-  "defaultColor":"#6441D1"
+  "defaultColor":"#6441D1",
+  "coingeckoId": "minerva-wallet",
+  "roundCurrencyUpto": "2"
 }

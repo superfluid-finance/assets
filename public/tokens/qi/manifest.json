@@ -1,9 +1,9 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
+  "svgIconPath": "/tokens/qi/icon.svg",
   "isSuperToken": false,
-  "svgIconPath": "/tokens/tusd/icon.svg",
-  "defaultColor":"#002868",
-  "coingeckoId": "true-usd",
+  "defaultColor":"#f87171",
+  "coingeckoId": "qi-dao",
   "roundCurrencyUpto": "2"
 }
