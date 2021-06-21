@@ -3,5 +3,7 @@
   "type": "ERC20",
   "svgIconPath": "/tokens/eth/icon.svg",
   "isSuperToken": false,
-  "defaultColor":"#141414"
+  "defaultColor":"#141414",
+  "coingeckoId": "weth",
+  "roundCurrencyUpto": "2"
 }

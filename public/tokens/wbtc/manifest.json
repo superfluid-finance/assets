@@ -3,5 +3,7 @@
   "type": "ERC20",
   "svgIconPath": "/tokens/wbtc/icon.svg",
   "isSuperToken": false,
-  "defaultColor":"#201A2D"
+  "defaultColor":"#201A2D",
+  "coingeckoId": "wrapped-bitcoin",
+  "roundCurrencyUpto": "2"
 }

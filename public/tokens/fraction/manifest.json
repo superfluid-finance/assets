@@ -5,5 +5,7 @@
   "svgIconPath": "/tokens/fraction/icon.svg",
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["PRE_MINTED"],
-  "defaultColor":"#000000"
+  "defaultColor":"#000000",
+  "coingeckoId": "fraction",
+  "roundCurrencyUpto": "2"
 }

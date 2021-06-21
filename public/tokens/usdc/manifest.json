@@ -3,5 +3,7 @@
   "type": "ERC20",
   "isSuperToken": false,
   "svgIconPath": "/tokens/usdc/icon.svg",
-  "defaultColor":"#2775ca"
+  "defaultColor":"#2775ca",
+  "coingeckoId": "usd-coin",
+  "roundCurrencyUpto": "2"
 }
