@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/tdl/icon.svg",
+  "isSuperToken": false,
+  "defaultColor":"#5ECFFF",
+  "coingeckoId": null,
+  "roundCurrencyUpto": "2"
+}
