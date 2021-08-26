@@ -4,5 +4,6 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/qi/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
+  "coingeckoId": "qi-dao",
   "defaultColor":"#f87171"
 }
