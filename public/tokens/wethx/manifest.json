@@ -4,5 +4,6 @@
   "svgIconPath": "/tokens/eth/icon.svg",
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
-  "defaultColor":"#141414"
+  "defaultColor":"#141414",
+  "coingeckoId": "weth"
 }

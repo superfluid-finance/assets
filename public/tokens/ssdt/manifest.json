@@ -4,5 +4,6 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/sdt/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
+  "coingeckoId": "stake-dao",
   "defaultColor":"#10153D"
 }

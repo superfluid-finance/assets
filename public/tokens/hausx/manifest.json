@@ -4,5 +4,6 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/haus/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
+  "coingeckoId": "daohaus",
   "defaultColor":"#10153D"
 }

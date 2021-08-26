@@ -4,5 +4,6 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/tdl/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
+  "coingeckoId": "turtlecoin",
   "defaultColor":"#5ECFFF"
 }
