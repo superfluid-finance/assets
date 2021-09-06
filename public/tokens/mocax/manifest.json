@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/moca/icon.svg",
+  "isSuperToken": true,
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#ff583d",
+  "coingeckoId": "museum-of-crypto-art"
+}
