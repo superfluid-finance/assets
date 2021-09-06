@@ -1,9 +1,10 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "svgIconPath": "/tokens/sdt/icon.jpg",
+  "svgIconPath": "/tokens/sdam3crv/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#10153D",
-  "coingeckoId": "stake-dao",
+  "defaultPrice": 1.06,
+  "coingeckoId": null,
   "roundCurrencyUpto": "2"
 }
