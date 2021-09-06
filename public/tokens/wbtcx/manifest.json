@@ -4,5 +4,6 @@
   "svgIconPath": "/tokens/wbtc/icon.svg",
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
+  "coingeckoId": "wrapped-bitcoin",
   "defaultColor":"#201A2D"
 }
