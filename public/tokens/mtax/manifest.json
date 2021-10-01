@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/mta/icon.png",
+  "isSuperToken": true,
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#000000",
+  "coingeckoId": "meta"
+}
