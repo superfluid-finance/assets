@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": false,
+  "svgIconPath": "/tokens/cre8r/moreSpaceIcon.svg",
+  "defaultColor":"#00000",
+  "coingeckoId": "null",
+  "roundCurrencyUpto": "2"
+}
