@@ -5,6 +5,7 @@
   "superTokenType": "ERC20_WRAPPER",
   "svgIconPath": "/tokens/xcre8r/icon.svg",
   "defaultColor":"#00000",
+  "defaultPrice": 1.00,
   "coingeckoId": "null",
   "roundCurrencyUpto": "2"
 }

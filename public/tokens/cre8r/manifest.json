@@ -4,6 +4,7 @@
   "isSuperToken": false,
   "svgIconPath": "/tokens/cre8r/icon.svg",
   "defaultColor":"#00000",
+  "defaultPrice": 1.00,
   "coingeckoId": "null",
   "roundCurrencyUpto": "2"
 }
