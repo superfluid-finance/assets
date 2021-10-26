@@ -3,7 +3,7 @@
   "type": "ERC20",
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
-  "svgIconPath": "/tokens/xcre8r/moreSpaceIcon.svg",
+  "svgIconPath": "/tokens/xcre8r/Icon.svg",
   "defaultColor":"#00000",
   "coingeckoId": "null",
   "roundCurrencyUpto": "2"
