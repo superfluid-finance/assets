@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/mkr/icon.svg",
+  "isSuperToken": true,
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#19bc9c",
+  "coingeckoId": "maker"
+}
