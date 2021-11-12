@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "NATIVE_COIN",
+  "svgIconPath": "/tokens/avax/icon.svg",
+  "isSuperToken": false,
+  "defaultColor":"#E84142",
+  "coingeckoId": "binance-peg-avalanche",
+  "roundCurrencyUpto": "2"
+}
