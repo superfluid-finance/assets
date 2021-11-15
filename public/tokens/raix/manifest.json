@@ -4,6 +4,6 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/rai/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
-  "coingeckoId": "rai",
+  "coingeckoId": "rai-finance",
   "defaultColor":"#37c8ac"
 }

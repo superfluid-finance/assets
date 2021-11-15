@@ -4,6 +4,6 @@
   "svgIconPath": "/tokens/rai/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#37c8ac",
-  "coingeckoId": "rai",
+  "coingeckoId": "rai-finance",
   "roundCurrencyUpto": "2"
 }
