@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/jgbp/icon.png",
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#052668",
+  "coingeckoId": "jarvis-synthetic-british-pound"
+}
