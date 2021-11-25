@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/angle/icon.png",
+  "isSuperToken": false,
+  "defaultColor":"#EB7D7A",
+  "coingeckoId": "angle-protocol",
+  "roundCurrencyUpto": "2"
+}
