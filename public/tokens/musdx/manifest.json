@@ -1,7 +1,7 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "svgIconPath": "/tokens/mstable usd (polygon pos)/icon.png",
+  "svgIconPath": "/tokens/mstable-usd-polygon-pos/icon.png",
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#000000",
