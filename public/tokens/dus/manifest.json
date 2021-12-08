@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/dus/icon.svg",
+  "isSuperToken": false,
+  "defaultColor":"#0F370A",
+  "coingeckoId": "null",
+  "roundCurrencyUpto": "2"
+}

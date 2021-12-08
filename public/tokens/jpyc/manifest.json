@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/jpyc/icon.svg",
+  "isSuperToken": false,
+  "coingeckoId": "jpy-coin",
+  "defaultColor":"#2775ca",
+  "roundCurrencyUpto": "2"
+}
