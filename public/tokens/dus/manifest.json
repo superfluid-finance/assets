@@ -4,6 +4,6 @@
   "svgIconPath": "/tokens/dus/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#0F370A",
-  "coingeckoId": null,
+  "coingeckoId": "null",
   "roundCurrencyUpto": "2"
 }

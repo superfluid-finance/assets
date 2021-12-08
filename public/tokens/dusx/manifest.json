@@ -4,6 +4,6 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/dus/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
-  "coingeckoId": null,
+  "coingeckoId": "null",
   "defaultColor":"#F5AC37"
 }
