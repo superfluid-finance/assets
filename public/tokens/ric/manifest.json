@@ -1,0 +1,12 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/ric/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor":"#7995B2",
+  "coingeckoId": "null",
+  "defaultPrice": 0.98,
+  "roundCurrencyUpto": "2"
+}
