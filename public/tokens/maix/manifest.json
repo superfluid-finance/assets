@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/mimatic/icon.svg",
+  "superTokenType": "ERC20_WRAPPER",
+  "coingeckoId": "mimatic",
+  "defaultColor":"#DB3737"
+}
