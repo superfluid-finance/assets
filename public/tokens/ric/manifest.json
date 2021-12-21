@@ -6,7 +6,6 @@
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#7995B2",
-  "coingeckoId": "null",
-  "defaultPrice": 0.98,
+  "coingeckoId": "ricochet",
   "roundCurrencyUpto": "2"
 }
