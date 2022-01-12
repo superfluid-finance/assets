@@ -1,0 +1,12 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/nori/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor":"#43ff64d9",
+  "defaultPrice": 15.00,
+  "coingeckoId": "null",
+  "roundCurrencyUpto": "2"
+}
