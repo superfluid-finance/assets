@@ -1,0 +1,11 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/stack/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor":"#5260ff",
+  "coingeckoId": "stacker-ventures",
+  "roundCurrencyUpto": "2"
+}
