@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/dbeat/icon.svg",
+  "superTokenType": "ERC20_WRAPPER",
+  "coingeckoId": "null",
+  "defaultPrice": 0.001,
+  "defaultColor":"#00D3FF"
+}

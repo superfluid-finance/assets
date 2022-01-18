@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/hny/icon.png",
+  "isSuperToken": false,
+  "coingeckoId": "honey",
+  "defaultColor":"#ffe100",
+  "roundCurrencyUpto": "2"
+}
