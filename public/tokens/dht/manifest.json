@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/dht/icon.svg",
+  "isSuperToken": false,
+  "coingeckoId": "dhedge-dao",
+  "defaultColor":"#00a2d2",
+  "roundCurrencyUpto": "2"
+}
