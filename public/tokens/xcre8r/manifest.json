@@ -6,6 +6,6 @@
   "svgIconPath": "/tokens/xcre8r/icon.svg",
   "defaultColor":"#00000",
   "defaultPrice": 1.00,
-  "coingeckoId": "null",
+  "coingeckoId": "cre8r-dao",
   "roundCurrencyUpto": "2"
 }
