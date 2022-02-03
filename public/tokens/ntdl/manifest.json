@@ -1,0 +1,11 @@
+{
+  "version": "2022-02-03",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/ntdl/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor":"#5ECFFF",
+  "coingeckoId": null,
+  "roundCurrencyUpto": "2"
+}
