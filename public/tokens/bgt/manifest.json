@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/bgt/icon.png",
+  "isSuperToken": false,
+  "defaultColor":"#D3590D",
+  "defaultPrice": 0.2,
+  "coingeckoId": null,
+  "roundCurrencyUpto": "2"
+}
