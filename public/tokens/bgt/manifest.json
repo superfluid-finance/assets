@@ -4,7 +4,7 @@
   "svgIconPath": "/tokens/bgt/icon.png",
   "isSuperToken": false,
   "defaultColor":"#D3590D",
-  "defaultPrice": 0.2,
+  "defaultPrice": 10,
   "coingeckoId": null,
   "roundCurrencyUpto": "2"
 }
