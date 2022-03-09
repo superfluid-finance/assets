@@ -1,0 +1,9 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/bright/icon.svg",
+  "isSuperToken": false,
+  "coingeckoId": "bright-token",
+  "defaultColor":"#fbc03e",
+  "roundCurrencyUpto": "2"
+}
