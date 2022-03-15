@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/idlewethyield/icon.svg",
+  "isSuperToken": true,
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["SETH"],
+  "coingeckoId": "ethereum",
+  "defaultColor":"#6FA4F2"
+}
