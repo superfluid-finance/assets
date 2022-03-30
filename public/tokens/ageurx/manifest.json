@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/ageur/icon.png",
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#A9BC9B",
+  "defaultPrice": 1.11,
   "coingeckoId": "ageur"
 }

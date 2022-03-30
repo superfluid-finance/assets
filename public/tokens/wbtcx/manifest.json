@@ -4,6 +4,7 @@
   "svgIconPath": "/tokens/wbtc/icon.svg",
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
+  "defaultPrice": 47139.53,
   "coingeckoId": "wrapped-bitcoin",
   "defaultColor":"#201A2D"
 }

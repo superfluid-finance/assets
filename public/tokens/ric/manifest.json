@@ -7,5 +7,6 @@
   "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#7995B2",
   "coingeckoId": "richochet",
+  "defaultPrice":  0.417882,
   "roundCurrencyUpto": "2"
 }

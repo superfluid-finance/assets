@@ -7,5 +7,6 @@
   "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#6441D1",
   "coingeckoId": "minerva-wallet",
+  "defaultPrice": 0.03849898,
   "roundCurrencyUpto": "2"
 }

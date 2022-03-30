@@ -4,6 +4,7 @@
   "svgIconPath": "/tokens/idlewethyield/icon.svg",
   "isSuperToken": false,
   "coingeckoId": "ethereum",
+  "defaultPrice": 3386.58,
   "defaultColor":"#6FA4F2",
   "roundCurrencyUpto": "2"
 }

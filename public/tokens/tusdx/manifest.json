@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/tusd/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "coingeckoId": "true-usd",
+  "defaultPrice": 1,
   "defaultColor":"#002868"
 }

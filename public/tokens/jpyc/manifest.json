@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "coingeckoId": "jpy-coin",
   "defaultColor":"#2775ca",
+  "defaultPrice": 0.00791506,
   "roundCurrencyUpto": "2"
 }

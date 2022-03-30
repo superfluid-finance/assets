@@ -4,6 +4,7 @@
   "svgIconPath": "/tokens/jgbp/icon.png",
   "isSuperToken": false,
   "defaultColor":"#052668",
+  "defaultPrice": 1.32,
   "coingeckoId": "jarvis-synthetic-british-pound",
   "roundCurrencyUpto": "2"
 }

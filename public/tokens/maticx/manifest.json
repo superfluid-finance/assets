@@ -6,5 +6,6 @@
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["SETH"],
   "coingeckoId": "matic-network",
+  "defaultPrice": 1.67,
   "defaultColor":"#2991F9"
 }

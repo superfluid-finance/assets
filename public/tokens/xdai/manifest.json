@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "defaultColor":"#F5AC37",
   "coingeckoId": "xdai",
+  "defaultPrice": 0.994169,
   "roundCurrencyUpto": "2"
 }
