@@ -4,6 +4,6 @@
   "svgIconPath": "/tokens/idlewethyield/icon.svg",
   "isSuperToken": false,
   "coingeckoId": "ethereum",
-  "defaultColor": "#6FA4F2",
-  "roundCurrencyUpto": "2",
+  "defaultColor":"#6FA4F2",
+  "roundCurrencyUpto": "2"
 }
