@@ -5,6 +5,5 @@
   "isSuperToken": false,
   "coingeckoId": "ethereum",
   "defaultColor":"#6FA4F2",
-  "defaultPrice": 3386.58,
   "roundCurrencyUpto": "2",
 }
