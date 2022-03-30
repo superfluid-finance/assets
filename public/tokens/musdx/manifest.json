@@ -3,8 +3,8 @@
   "type": "ERC20",
   "svgIconPath": "/tokens/mstable-usd-polygon-pos/icon.png",
   "isSuperToken": true,
+  "defaultPrice":  0.999244,
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#000000",
-  "coingeckoId": "musd",
-  "defaultPrice":  0.999244,
+  "coingeckoId": "musd"
 }
