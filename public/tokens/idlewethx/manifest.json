@@ -7,5 +7,5 @@
   "superTokenCustomProperties": ["SETH"],
   "coingeckoId": "ethereum",
   "defaultPrice": 3386.51,
-  "defaultColor":"#6FA4F2",
+  "defaultColor": "#6FA4F2",
 }
