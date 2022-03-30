@@ -7,5 +7,6 @@
   "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#5260ff",
   "coingeckoId": "stacker-ventures",
+  "defaultPrice":  1.47,
   "roundCurrencyUpto": "2"
 }

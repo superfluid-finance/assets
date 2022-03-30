@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/inst/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "coingeckoId": "instadapp",
+  "defaultPrice": 1.09,
   "defaultColor":"#F5AC37"
 }

@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "defaultColor":"#F5AC37",
   "coingeckoId": "dai",
+  "defaultPrice": 1,
   "roundCurrencyUpto": "2"
 }

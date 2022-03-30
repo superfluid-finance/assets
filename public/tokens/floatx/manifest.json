@@ -5,5 +5,6 @@
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#ff00ff",
+  "defaultPrice": 1.55,
   "coingeckoId": "float-protocol-float"
 }

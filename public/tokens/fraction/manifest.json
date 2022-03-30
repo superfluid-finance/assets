@@ -7,5 +7,6 @@
   "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#000000",
   "coingeckoId": "fraction",
+  "defaultPrice": 52553.60,
   "roundCurrencyUpto": "2"
 }

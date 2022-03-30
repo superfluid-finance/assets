@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "defaultColor":"#5ECFFF",
   "coingeckoId": "turtlecoin",
+  "defaultPrice":  0.00002026,
   "roundCurrencyUpto": "2"
 }

@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "defaultColor":"#EB7D7A",
   "coingeckoId": "angle-protocol",
+  "defaultPrice": 0.173563,
   "roundCurrencyUpto": "2"
 }

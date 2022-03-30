@@ -4,6 +4,7 @@
   "svgIconPath": "/tokens/wbtc/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#201A2D",
+  "defaultPrice": 47139.53,
   "coingeckoId": "wrapped-bitcoin",
   "roundCurrencyUpto": "2"
 }

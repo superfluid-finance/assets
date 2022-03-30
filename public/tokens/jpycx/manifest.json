@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/jpyc/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "coingeckoId": "jpy-coin",
+  "defaultPrice": 0.00791506,
   "defaultColor":"#2775ca"
 }

@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "coingeckoId": "bright-token",
   "defaultColor":"#fbc03e",
+  "defaultPrice": 0.331666,
   "roundCurrencyUpto": "2"
 }

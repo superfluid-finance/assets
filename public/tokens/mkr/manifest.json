@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "defaultColor":"#19bc9c",
   "coingeckoId": "maker",
+  "defaultPrice": 2205.83,
   "roundCurrencyUpto": "2"
 }

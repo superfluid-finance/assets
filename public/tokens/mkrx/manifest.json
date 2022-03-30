@@ -5,5 +5,6 @@
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#19bc9c",
+  "defaultPrice": 2205.83,
   "coingeckoId": "maker"
 }

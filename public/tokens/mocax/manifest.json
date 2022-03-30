@@ -5,5 +5,6 @@
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#ff583d",
+  "defaultPrice": 1.02,
   "coingeckoId": "museum-of-crypto-art"
 }

@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/hny/icon.png",
   "superTokenType": "ERC20_WRAPPER",
   "coingeckoId": "honey",
+  "defaultPrice": 146.00,
   "defaultColor":"#ffe100"
 }

@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/mimatic/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "coingeckoId": "mimatic",
+  "defaultPrice": 0.996937,
   "defaultColor":"#DB3737"
 }

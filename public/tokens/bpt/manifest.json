@@ -4,6 +4,7 @@
   "svgIconPath": "/tokens/bpt/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#10153D",
+  "defaultPrice": 2.71,
   "coingeckoId": "blackpool-token",
   "roundCurrencyUpto": "2"
 }

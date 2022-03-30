@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "defaultColor":"#E84142",
   "coingeckoId": "binance-peg-avalanche",
+  "defaultPrice": 92.90,
   "roundCurrencyUpto": "2"
 }

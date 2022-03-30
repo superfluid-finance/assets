@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/req/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "coingeckoId": "request-network",
+  "defaultPrice":  0.249539,
   "defaultColor":"#00E6A0"
 }

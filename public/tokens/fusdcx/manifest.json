@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/usdc/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#2775ca",
+  "defaultPrice": 1,
   "coingeckoId": "usd-coin"
 }

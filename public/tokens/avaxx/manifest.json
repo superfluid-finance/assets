@@ -6,5 +6,6 @@
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["SETH"],
   "coingeckoId": "binance-peg-avalanche",
+  "defaultPrice": 92.90,
   "defaultColor":"#E84142"
 }

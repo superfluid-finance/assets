@@ -6,5 +6,6 @@
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["SETH"],
   "defaultColor":"#F5AC37",
+  "defaultPrice": 0.994169,
   "coingeckoId": "xdai"
 }

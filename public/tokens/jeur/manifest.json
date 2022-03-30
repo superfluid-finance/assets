@@ -4,6 +4,7 @@
   "svgIconPath": "/tokens/jeur/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#003399",
+  "defaultPrice": 1.11,
   "coingeckoId": "jarvis-synthetic-euro",
   "roundCurrencyUpto": "2"
 }

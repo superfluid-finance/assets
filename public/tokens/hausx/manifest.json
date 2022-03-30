@@ -5,5 +5,6 @@
   "svgIconPath": "/tokens/haus/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "coingeckoId": "daohaus",
+  "defaultPrice": 27.00,
   "defaultColor":"#10153D"
 }

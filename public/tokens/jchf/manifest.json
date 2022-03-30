@@ -4,6 +4,7 @@
   "svgIconPath": "/tokens/jchf/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#DA4725",
+  "defaultPrice": 1.07,
   "coingeckoId": "jarvis-synthetic-swiss-franc",
   "roundCurrencyUpto": "2"
 }

@@ -4,6 +4,7 @@
   "svgIconPath": "/tokens/moca/icon.jpeg",
   "isSuperToken": false,
   "defaultColor":"#ff583d",
+  "defaultPrice": 1.02,
   "coingeckoId": "museum-of-crypto-art",
   "roundCurrencyUpto": "2"
 }

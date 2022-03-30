@@ -5,5 +5,6 @@
   "isSuperToken": false,
   "defaultColor":"#00E6A0",
   "coingeckoId": "request-network",
+  "defaultPrice":  0.249539,
   "roundCurrencyUpto": "2"
 }
