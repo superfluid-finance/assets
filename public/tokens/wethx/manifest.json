@@ -6,5 +6,5 @@
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#141414",
   "coingeckoId": "weth",
-  "defaultPrice": 3391.38,
+  "defaultPrice": 3391.38
 }
