@@ -1,0 +1,12 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/frens/icon.png",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor":"#FFFF00",
+  "coingeckoId": null,
+  "defaultPrice":  1,
+  "roundCurrencyUpto": "2"
+}
