@@ -6,7 +6,7 @@
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#B96CF5",
-  "coingeckoId": "",
+  "coingeckoId": null,
   "defaultPrice": 100,
   "roundCurrencyUpto": "2"
 }
