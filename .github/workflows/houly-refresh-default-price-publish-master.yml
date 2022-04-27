@@ -1,0 +1,38 @@
+name: Publish Assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  refresh-default-prices:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v1
+
+      - name: Install xmllint
+        run: |
+          sudo apt update
+          sudo apt-get install libxml2-utils
+
+      - name: Update default price info
+        run: node scripts/update-price-info.js
+
+      - name: Publish to assets hosting service (aws s3+cloudfront)
+        run: |
+          aws s3 sync \
+            --delete \
+            ${DIST_DIR}/ ${S3_URI}
+          aws cloudfront create-invalidation \
+            --distribution-id ${CLOUDFRONT_DISTRIBUTION_ID} \
+            --paths '/*'
+        env:
+          AWS_DEFAULT_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.SITE_DEPLOYER_AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SITE_DEPLOYER_AWS_SECRET_ACCESS_KEY }}
+          DIST_DIR: public
+          S3_URI: s3://site-assets.superfluid.finance
+          CLOUDFRONT_DISTRIBUTION_ID: E2I3N7PQDPZ8LW
