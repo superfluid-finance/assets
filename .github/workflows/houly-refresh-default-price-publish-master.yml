@@ -1,13 +1,12 @@
 name: Publish Assets
 
 on:
-  push:
-    branches: ["master"]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
-
-  publish-master:
-
+  refresh-default-prices:
     runs-on: ubuntu-latest
 
     steps:
