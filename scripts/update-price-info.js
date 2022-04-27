@@ -4,7 +4,6 @@ const https = require('https');
 
 const directory_path = path.join(__dirname, '../public/tokens');
 const coingecko_base_URL = "https://api.coingecko.com/api/v3"
-const chunk_size = 10;
 
 function writeFile(sub_folders, coingeckoPriceMap) {
   sub_folders.forEach(function (folder) {
