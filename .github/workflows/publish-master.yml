@@ -19,8 +19,11 @@ jobs:
           sudo apt update
           sudo apt-get install libxml2-utils
 
+      - name: Update default price info
+        run: node scripts/update-price-info.js
+
       - name: Validate token manifests
-        run: scripts/validate-token-manifests.sh
+          run: scripts/validate-token-manifests.sh
 
       - name: Publish to assets hosting service (aws s3+cloudfront)
         run: |
