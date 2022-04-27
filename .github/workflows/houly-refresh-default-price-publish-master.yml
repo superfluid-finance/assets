@@ -19,7 +19,9 @@ jobs:
           sudo apt-get install libxml2-utils
 
       - name: Update default price info
-        run: node scripts/update-price-info.js
+        run: |
+
+          node scripts/update-price-info.js
 
       - name: Publish to assets hosting service (aws s3+cloudfront)
         run: |
