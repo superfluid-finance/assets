@@ -23,7 +23,7 @@ jobs:
         run: node scripts/update-price-info.js
 
       - name: Validate token manifests
-          run: scripts/validate-token-manifests.sh
+        run: scripts/validate-token-manifests.sh
 
       - name: Publish to assets hosting service (aws s3+cloudfront)
         run: |
