@@ -1,0 +1,12 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/spgt/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor": "#ffb600",
+  "coingeckoId": null,
+  "defaultPrice": 10000,
+  "roundCurrencyUpto": "2"
+}
