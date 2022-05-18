@@ -1,7 +1,7 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "svgIconPath": "/tokens/dai/icon.svg",
+  "svgIconPath": "/tokens/xdai/icon.svg",
   "isSuperToken": true,
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["SETH"],
