@@ -1,0 +1,11 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/eure/icon.svg",
+  "isSuperToken": true,
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["SETH"],
+  "coingeckoId": "monerium-eur-money",
+  "defaultPrice": 0.748797,
+  "defaultColor":"#0095D7"
+}
