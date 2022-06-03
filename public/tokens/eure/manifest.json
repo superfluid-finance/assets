@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "NATIVE_COIN",
+  "svgIconPath": "/tokens/eure/icon.svg",
+  "isSuperToken": false,
+  "coingeckoId": "monerium-eur-money",
+  "defaultPrice": 0.748797,
+  "defaultColor":"#0095D7",
+  "roundCurrencyUpto": "2"
+}
