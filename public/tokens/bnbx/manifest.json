@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/bnb/icon.svg",
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#ffc107",
+  "coingeckoId": "binancecoin",
+  "defaultPrice": 218.49
+}
