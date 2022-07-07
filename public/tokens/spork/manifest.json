@@ -1,7 +1,7 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "svgIconPath": "/tokens/spork/icon.svg",
+  "svgIconPath": "/tokens/spork/icon.png",
   "isSuperToken": false,
   "defaultColor":"#000000",
   "coingeckoId": "sporkdao",
