@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/eurs/icon.png",
+  "isSuperToken": false,
+  "coingeckoId": "stasis-eurs",
+  "defaultColor":"#000000",
+  "defaultPrice": 1.01,
+  "roundCurrencyUpto": "2"
+}
