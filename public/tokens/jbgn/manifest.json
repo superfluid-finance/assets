@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/jbgn/icon.png",
+	"defaultColor": "#6cf755",
+	"coingeckoId": null,
+	"defaultPrice": 0.52,
+	"roundCurrencyUpto": "2"
+}

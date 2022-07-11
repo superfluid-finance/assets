@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": true,
+	"superTokenType": "ERC20_WRAPPER",
+	"svgIconPath": "/tokens/jbgn/icon.png",
+	"defaultColor": "#ba1b64",
+	"defaultPrice": 0.52,
+	"coingeckoId": null
+}

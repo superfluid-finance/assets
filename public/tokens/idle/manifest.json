@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/idle/icon.png",
+	"defaultColor": "#1d9e",
+	"coingeckoId": "idle",
+	"defaultPrice": 0.0001,
+	"roundCurrencyUpto": "2"
+}

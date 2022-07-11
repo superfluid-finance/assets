@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/jphp/icon.png",
+	"defaultColor": "#8de384",
+	"coingeckoId": null,
+	"defaultPrice": 0.018,
+	"roundCurrencyUpto": "2"
+}

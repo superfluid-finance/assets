@@ -63,5 +63,5 @@ function modify(directory) {
 try {
   modify(directory_path);
 } catch (e) {
-  console.error("Error occured:", e);
+  console.error("Error occurred:", e);
 }

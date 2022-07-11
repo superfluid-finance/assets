@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": true,
+	"superTokenType": "ERC20_WRAPPER",
+	"svgIconPath": "/tokens/joe/icon.png",
+	"defaultColor": "#8295da",
+	"defaultPrice": 0.0001,
+	"coingeckoId": "joe"
+}

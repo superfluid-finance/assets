@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/jcad/icon.png",
+	"defaultColor": "#9efcab",
+	"coingeckoId": "jarvis-synthetic-canadian-dollar",
+	"defaultPrice": 0.0001,
+	"roundCurrencyUpto": "2"
+}

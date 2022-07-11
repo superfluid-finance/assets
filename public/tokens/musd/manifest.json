@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/mstable-usd-polygon-pos/icon.png",
+	"defaultColor": "#9e42be",
+	"coingeckoId": "musd",
+	"defaultPrice": 0.0001,
+	"roundCurrencyUpto": "2"
+}
