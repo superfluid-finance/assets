@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/work/icon.png",
+	"defaultColor": "#f37419",
+	"coingeckoId": "the-employment-commons-work-token",
+	"defaultPrice": 0.0001,
+	"roundCurrencyUpto": "2"
+}

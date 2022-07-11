@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/dai/icon.svg",
+	"defaultColor": "#a463c7",
+	"coingeckoId": "dai",
+	"defaultPrice": 0.0001,
+	"roundCurrencyUpto": "2"
+}

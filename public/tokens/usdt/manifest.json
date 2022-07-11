@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/usdt/icon.png",
+	"defaultColor": "#4bcac3",
+	"coingeckoId": "tether-avalanche-bridged-usdt-e",
+	"defaultPrice": 0.0001,
+	"roundCurrencyUpto": "2"
+}
