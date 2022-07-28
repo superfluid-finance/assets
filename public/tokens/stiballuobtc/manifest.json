@@ -3,7 +3,7 @@
   "type": "ERC20",
   "isSuperToken": true,
   "superTokenType": "ERC20_WRAPPER",
-  "svgIconPath": "/tokens/tiballuobtc/icon.svg",
+  "svgIconPath": "/tokens/iballuobtc/icon.svg",
   "coingeckoId": null,
   "defaultPrice": 0,
   "defaultColor":"#FDE7CD"
