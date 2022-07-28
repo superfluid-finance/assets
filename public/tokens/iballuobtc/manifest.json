@@ -1,10 +1,10 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "svgIconPath": "/tokens/tiballuousd/icon.svg",
-  "isSuperToken": false,
+  "svgIconPath": "/tokens/iballuobtc/icon.svg",
   "coingeckoId": null,
   "defaultPrice": 0,
-  "defaultColor":"#D4E3F4",
+  "defaultColor":"#FDE7CD",
+  "isSuperToken": false,
   "roundCurrencyUpto": "2"
 }
