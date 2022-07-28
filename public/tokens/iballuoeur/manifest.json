@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "coingeckoId": null,
+  "defaultPrice": 0,
+  "defaultColor":"#B4B4DF",
+  "svgIconPath": "/tokens/iballuoeur/icon.svg",
+  "isSuperToken": false,
+  "roundCurrencyUpto": "2"
+}
