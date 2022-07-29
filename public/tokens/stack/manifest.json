@@ -1,10 +1,8 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "isSuperToken": true,
+  "isSuperToken": false,
   "svgIconPath": "/tokens/stack/icon.svg",
-  "superTokenType": "CUSTOM",
-  "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#5260ff",
   "coingeckoId": "stacker-ventures",
   "defaultPrice":  1.47,
