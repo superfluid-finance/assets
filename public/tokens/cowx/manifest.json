@@ -2,7 +2,7 @@
   "version": "2021-05-18",
   "type": "ERC20",
   "isSuperToken": true,
-  "svgIconPath": "/tokens/cow/icon.png",
+  "svgIconPath": "/tokens/cow/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "coingeckoId": "cow-protocol",
   "defaultPrice": 0.14,
