@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": false,
+  "svgIconPath": "/tokens/tusd/icon.svg",
+  "defaultColor":"#002868",
+  "coingeckoId": "true-usd",
+  "defaultPrice": 1,
+  "roundCurrencyUpto": "2"
+}
