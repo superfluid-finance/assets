@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/crk/icon.svg",
+  "isSuperToken": false,
+  "coingeckoId": "",
+  "defaultColor":"#000000",
+  "defaultPrice": 1,
+  "roundCurrencyUpto": "4"
+}
