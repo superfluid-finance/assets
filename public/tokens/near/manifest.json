@@ -5,6 +5,6 @@
   "isSuperToken": false,
   "defaultColor":"#00000",
   "defaultPrice": 1.63,
-  "coingeckoId": near,
+  "coingeckoId": "near",
   "roundCurrencyUpto": "4"
 }
