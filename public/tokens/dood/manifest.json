@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/dood/icon.png",
+  "isSuperToken": false,
+  "coingeckoId": "",
+  "defaultColor":"#000000",
+  "defaultPrice": 0,
+  "roundCurrencyUpto": "4"
+}
