@@ -1,0 +1,12 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/rexshirt/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor":"#000000",
+  "coingeckoId": "",
+  "defaultPrice": 0,
+  "roundCurrencyUpto": "2"
+}
