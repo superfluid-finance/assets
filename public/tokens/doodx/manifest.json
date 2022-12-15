@@ -1,10 +1,10 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "svgIconPath": "/tokens/dood/icon.svg",
   "isSuperToken": true,
+  "svgIconPath": "/tokens/dood/icon.png",
   "superTokenType": "ERC20_WRAPPER",
-  "coingeckoId": null,
+  "coingeckoId": "",
   "defaultPrice": 0,
   "defaultColor":"#000000"
 }
