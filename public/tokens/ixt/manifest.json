@@ -3,6 +3,6 @@
   "type": "ERC20",
   "isSuperToken": false,
   "svgIconPath": "/tokens/ixt/icon.svg",
-  "defaultColor":"#ffb429",
-  "coingeckoId": "ix-token",
+  "defaultColor":"#ff6647",
+  "coingeckoId": "ix-token"
 }

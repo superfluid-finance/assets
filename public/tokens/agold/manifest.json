@@ -1,9 +1,9 @@
 {
-	"version": "2021-05-18",
-	"type": "ERC20",
-	"isSuperToken": true,
-	"superTokenType": "ERC20_WRAPPER",
-	"svgIconPath": "/tokens/agold/icon.svg",
-	"defaultColor": "#ffb429",
-	"coingeckoId": "ix-token"
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "superTokenType": "ERC20_WRAPPER",
+  "svgIconPath": "/tokens/agold/icon.svg",
+  "defaultColor": "#ffb429",
+  "coingeckoId": "ix-token"
 }
