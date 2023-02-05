@@ -2,7 +2,7 @@
   "version": "2021-05-18",
   "type": "ERC20",
   "isSuperToken": false,
-  "svgIconPath": "/tokens/amkt/icon.svg",
+  "svgIconPath": "/tokens/amkt/icon.png",
   "defaultColor":"#0c0c0c",
   "coingeckoId": "alongside-crypto-market-index"
 }
