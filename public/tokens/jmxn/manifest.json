@@ -1,0 +1,7 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": false,
+  "svgIconPath": "/tokens/jmxn/icon.svg",
+  "defaultColor":"#056443",
+}
