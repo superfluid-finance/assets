@@ -5,4 +5,5 @@
   "svgIconPath": "/tokens/jmxn/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#056443",
+  "coingeckoId": ""
 }
