@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": true,
+	"superTokenType": "ERC20_WRAPPER",
+	"svgIconPath": "/tokens/crv/icon.wepb",
+	"defaultColor": "#ffe600",
+	"defaultPrice": 0,
+	"coingeckoId": "curve-dao-token"
+}
