@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/link/icon.png",
+  "isSuperToken": false,
+  "defaultColor":"#375bd3",
+  "coingeckoId": "chainlink",
+  "defaultPrice": 1,
+  "roundCurrencyUpto": "2"
+}
