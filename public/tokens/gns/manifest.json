@@ -1,12 +1,10 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "isSuperToken": true,
+  "isSuperToken": false,
   "svgIconPath": "/tokens/gns/icon.png",
-  "superTokenType": "CUSTOM",
-  "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#42eda7",
   "coingeckoId": "gains-network",
-  "defaultPrice":  1,
+  "defaultPrice": 1,
   "roundCurrencyUpto": "2"
 }
