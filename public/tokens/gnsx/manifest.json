@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/gns/icon.svg",
+  "superTokenType": "ERC20_WRAPPER",
+  "coingeckoId": "gains-network",
+  "defaultPrice": 1,
+  "defaultColor":"#42eda7"
+}
