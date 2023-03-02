@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/matic/icon.svg",
+	"defaultColor": "#803ce0",
+	"coingeckoId": "polygon",
+	"defaultPrice": 0.0001,
+	"roundCurrencyUpto": "2"
+}
