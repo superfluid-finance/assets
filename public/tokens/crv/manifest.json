@@ -1,7 +1,7 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "svgIconPath": "/tokens/crv/icon.wepb",
+  "svgIconPath": "/tokens/crv/icon.png",
   "isSuperToken": false,
   "coingeckoId": "curve-dao-token",
   "defaultColor":"#ffe600",
