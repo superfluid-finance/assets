@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": false,
+	"svgIconPath": "/tokens/sbc/icon.png",
+	"defaultColor": "#0e0e0e",
+	"coingeckoId": null,
+	"defaultPrice": 0.10,
+	"roundCurrencyUpto": "2"
+}
