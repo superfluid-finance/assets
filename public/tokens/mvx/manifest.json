@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/mvx/icon.png",
+  "isSuperToken": false,
+  "defaultColor":"#292674",
+  "coingeckoId": "metavault-trade",
+  "defaultPrice": 1,
+  "roundCurrencyUpto": "2"
+}
