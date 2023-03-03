@@ -4,7 +4,7 @@
   "svgIconPath": "/tokens/rb/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#fc833a",
-  "coingeckoId": "",
+  "coingeckoId": null,
   "defaultPrice": 0.0,
   "roundCurrencyUpto": "2"
 }
