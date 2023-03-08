@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": false,
+  "svgIconPath": "/tokens/stak/icon.png",
+  "defaultColor":"#5957d7",
+  "coingeckoId": "jigstack",
+  "defaultPrice":  0,
+  "roundCurrencyUpto": "2"
+}
