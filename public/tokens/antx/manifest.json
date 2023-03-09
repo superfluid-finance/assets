@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/ant/icon.png",
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#16d1f8",
+  "defaultPrice": 0,
+  "coingeckoId": "aragon"
+}
