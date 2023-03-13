@@ -1,5 +1,5 @@
 {
-    "version": "2023-03-13",
+    "version": "2021-05-18",
     "type": "ERC20",
     "isSuperToken": true,
     "svgIconPath": "/tokens/celo/icon.svg",
@@ -7,4 +7,4 @@
     "coingeckoId": "celo",
     "defaultColor":"#FCFF52",
     "defaultPrice": 0.58
-  }
+}
