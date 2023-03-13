@@ -1,0 +1,10 @@
+{
+    "version": "2023-03-13",
+    "type": "NATIVE_COIN",
+    "svgIconPath": "/tokens/celo/icon.svg",
+    "isSuperToken": false,
+    "coingeckoId": "celo",
+    "defaultColor":"#FCFF52",
+    "defaultPrice": 0.58
+  }
+  
