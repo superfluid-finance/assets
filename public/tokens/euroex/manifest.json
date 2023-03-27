@@ -6,5 +6,5 @@
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#000000",
   "coingeckoId": "euroe-stablecoin",
-  "defaultPrice": 1.08"
+  "defaultPrice": 1.08
 }
