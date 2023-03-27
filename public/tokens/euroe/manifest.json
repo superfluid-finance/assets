@@ -4,6 +4,6 @@
   "svgIconPath": "/tokens/euroe/icon.svg",
   "isSuperToken": false,
   "defaultColor":"#000000",
-  "coingeckoId": euroe-stablecoin,
+  "coingeckoId": "euroe-stablecoin",
   "roundCurrencyUpto": "4"
 }
