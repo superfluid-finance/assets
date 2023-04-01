@@ -1,0 +1,11 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/kptx/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["ERC20_WRAPPER"],
+  "defaultColor": "#2596be",
+  "coingeckoId": null,
+  "roundCurrencyUpto": "2"
+}
