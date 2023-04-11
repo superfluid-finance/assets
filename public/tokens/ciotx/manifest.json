@@ -1,0 +1,9 @@
+{
+    "version": "2021-05-18",
+    "type": "NATIVE_COIN",
+    "isSuperToken": false,
+    "coingeckoId": "crosschain-iotx",
+    "svgIconPath": "/tokens/ciotx/icon.svg",
+    "defaultColor":"#18a39e",
+    "defaultPrice": 0
+}
