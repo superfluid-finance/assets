@@ -1,0 +1,10 @@
+{
+	"version": "2021-05-18",
+	"type": "ERC20",
+	"isSuperToken": true,
+	"superTokenType": "ERC20_WRAPPER",
+	"svgIconPath": "/tokens/kpr/icon.svg",
+	"defaultColor": "#2596be",
+	"defaultPrice": 0,
+	"coingeckoId": null
+}
