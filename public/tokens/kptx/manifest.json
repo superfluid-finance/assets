@@ -3,7 +3,7 @@
 	"type": "ERC20",
 	"isSuperToken": true,
 	"superTokenType": "ERC20_WRAPPER",
-	"svgIconPath": "/tokens/kprx/icon.svg",
+	"svgIconPath": "/tokens/kptx/icon.svg",
 	"defaultColor": "#2596be",
 	"defaultPrice": 0,
 	"coingeckoId": null
