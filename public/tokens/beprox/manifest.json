@@ -1,7 +1,7 @@
 {
   "version": "2021-05-18",
   "type": "ERC20",
-  "isSuperToken": true,
+  "isSuperToken": true, 
   "svgIconPath": "/tokens/bepro/icon.png",
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#4250e4",
