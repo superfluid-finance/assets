@@ -1,0 +1,60 @@
+<svg width="521" height="521" viewBox="0 0 521 521" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_6)">
+<path d="M234.915 2.48096C206.539 5.58215 173.977 14.7307 147.772 27.1354C73.4982 62.3339 22.7937 126.218 3.72141 208.555C-0.620252 226.697 -0.620252 294.303 3.72141 312.445C8.99344 335.394 15.661 354.156 25.7399 374.469C62.1789 447.967 129.01 498.361 212.432 515.108C238.171 520.225 282.829 520.225 308.568 515.108C332.448 510.301 352.295 503.788 373.228 493.865C447.347 458.666 498.206 394.782 517.279 312.445C521.62 294.303 521.62 226.697 517.279 208.555C506.424 161.262 485.181 120.326 454.169 86.3682C416.955 45.5875 365.785 17.3667 309.344 6.20239C292.752 2.94614 250.576 0.775307 234.915 2.48096ZM286.86 34.1131C315.856 37.6795 339.27 44.6572 365.01 57.5271C428.429 89.4694 472.156 146.066 487.197 215.998C492.004 238.792 492.004 282.208 487.197 305.002C465.954 403.31 387.339 474.637 286.86 486.887C253.677 490.918 216.773 486.887 184.521 475.723C107.456 449.052 51.1696 385.168 33.803 305.002C28.9961 282.208 28.9961 238.792 33.803 215.998C51.0146 136.607 106.836 72.878 182.97 45.7426C214.912 34.4232 253.522 30.0816 286.86 34.1131Z" fill="black"/>
+<rect x="89" y="200" width="31" height="31" fill="black"/>
+<rect x="89" y="260" width="31" height="31" fill="black"/>
+<rect x="89" y="289" width="31" height="31" fill="black"/>
+<rect x="120" y="200" width="31" height="31" fill="#A5A5A5"/>
+<rect x="120" y="169" width="31" height="31" fill="black"/>
+<rect x="120" y="229" width="31" height="31" fill="black"/>
+<rect x="120" y="260" width="31" height="31" fill="#A5A5A5"/>
+<rect x="120" y="289" width="31" height="31" fill="#D9D9D9"/>
+<rect x="120" y="320" width="31" height="31" fill="black"/>
+<rect x="151" y="200" width="31" height="31" fill="#D9D9D9"/>
+<rect x="151" y="169" width="31" height="31" fill="black"/>
+<rect x="151" y="229" width="31" height="31" fill="#A5A5A5"/>
+<rect x="151" y="260" width="31" height="31" fill="#E9E9E9"/>
+<rect x="151" y="289" width="31" height="31" fill="#D9D9D9"/>
+<rect x="151" y="320" width="31" height="31" fill="black"/>
+<rect x="182" y="200" width="31" height="31" fill="black"/>
+<rect x="182" y="229" width="31" height="31" fill="#D9D9D9"/>
+<rect x="182" y="260" width="31" height="31" fill="#A5A5A5"/>
+<rect x="182" y="289" width="31" height="31" fill="black"/>
+<rect x="213" y="200" width="31" height="31" fill="black"/>
+<rect x="213" y="229" width="31" height="31" fill="#E9E9E9"/>
+<rect x="213" y="260" width="31" height="31" fill="#D9D9D9"/>
+<rect x="213" y="289" width="31" height="31" fill="black"/>
+<rect x="244" y="200" width="31" height="31" fill="black"/>
+<rect x="244" y="229" width="31" height="31" fill="#E9E9E9"/>
+<rect x="244" y="260" width="31" height="31" fill="#D9D9D9"/>
+<rect x="244" y="289" width="31" height="31" fill="black"/>
+<rect x="275" y="200" width="31" height="31" fill="black"/>
+<rect x="275" y="229" width="31" height="31" fill="#D9D9D9"/>
+<rect x="275" y="260" width="31" height="31" fill="#D9D9D9"/>
+<rect x="275" y="289" width="31" height="31" fill="black"/>
+<rect x="306" y="200" width="31" height="31" fill="black"/>
+<rect x="306" y="229" width="31" height="31" fill="white"/>
+<rect x="306" y="260" width="31" height="31" fill="#A5A5A5"/>
+<rect x="306" y="289" width="31" height="31" fill="black"/>
+<rect x="337" y="200" width="31" height="31" fill="#D9D9D9"/>
+<rect x="337" y="169" width="31" height="31" fill="black"/>
+<rect x="337" y="229" width="31" height="31" fill="#A5A5A5"/>
+<rect x="337" y="260" width="31" height="31" fill="#D9D9D9"/>
+<rect x="337" y="289" width="31" height="31" fill="#A5A5A5"/>
+<rect x="337" y="320" width="31" height="31" fill="black"/>
+<rect x="368" y="200" width="31" height="31" fill="white"/>
+<rect x="368" y="169" width="31" height="31" fill="black"/>
+<rect x="368" y="229" width="31" height="31" fill="black"/>
+<rect x="368" y="260" width="31" height="31" fill="white"/>
+<rect x="368" y="289" width="31" height="31" fill="#A5A5A5"/>
+<rect x="368" y="320" width="31" height="31" fill="black"/>
+<rect x="399" y="200" width="31" height="31" fill="black"/>
+<rect x="399" y="260" width="31" height="31" fill="black"/>
+<rect x="399" y="289" width="31" height="31" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_1_6">
+<rect width="521" height="521" fill="white"/>
+</clipPath>
+</defs>
+</svg>
