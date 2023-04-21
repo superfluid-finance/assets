@@ -1,0 +1,8 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/bsct/icon.svg",
+  "isSuperToken": false,
+  "defaultColor":"#A5A5A5",
+  "defaultPrice": 0.01
+}
