@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/sling/icon.png",
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#021C7B",
+  "defaultPrice": 0.0138,
+  "coingeckoId": ""
+}
