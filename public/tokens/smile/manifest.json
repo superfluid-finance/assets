@@ -1,0 +1,11 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/smile/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor":"#00000",
+  "coingeckoId": "",
+  "defaultPrice": 0
+}
