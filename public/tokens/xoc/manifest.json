@@ -1,0 +1,9 @@
+{
+    "version": "2021-05-18",
+    "type": "ERC20",
+    "isSuperToken": false,
+    "svgIconPath": "/tokens/xoc/icon.png",
+    "defaultColor":"#873e23",
+    "coingeckoId": "mxnt",
+    "roundCurrencyUpto": "2"
+  }
