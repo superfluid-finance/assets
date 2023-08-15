@@ -1,0 +1,8 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": false,
+  "svgIconPath": "/tokens/revv/icon.png",
+  "defaultColor":"#000000",
+  "coingeckoId": "revv"
+}
