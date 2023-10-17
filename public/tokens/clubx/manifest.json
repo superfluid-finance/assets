@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/clubx/icon.svg",
+  "superTokenType": "CUSTOM",
+  "coingeckoId": "",
+  "defaultColor": "#000009",
+  "defaultPrice": 0
+}
