@@ -4,6 +4,6 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/exof/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
-  "defaultColor":"#FFFFFF",
   "defaultPrice": 0,
+  "defaultColor":"#FFFFFF"
 }
