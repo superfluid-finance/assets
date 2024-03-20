@@ -4,5 +4,5 @@
   "isSuperToken": false,
   "svgIconPath": "/tokens/degen/icon.png",
   "defaultColor":"#000000",
-  "coingeckoId": "alongside-crypto-market-index"
+  "coingeckoId": "degen-base"
 }
