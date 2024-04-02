@@ -4,6 +4,7 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/bonsai/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
-  "defaultColor": "#000000",
+  "defaultColor":"#000000",
+  "defaultPrice": 1,
   "coingeckoId": ""
 }
