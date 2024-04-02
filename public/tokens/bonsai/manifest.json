@@ -3,6 +3,6 @@
   "type": "ERC20",
   "svgIconPath": "/tokens/bonsai/icon.svg",
   "isSuperToken": false,
-  "defaultColor":"#000000",
+  "defaultColor": "#000000",
   "coingeckoId": "",
 }
