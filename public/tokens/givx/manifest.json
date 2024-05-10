@@ -4,7 +4,6 @@
   "isSuperToken": true,
   "svgIconPath": "/tokens/giv/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
-  "defaultPrice": 0,
   "defaultColor":"#FFFFFF",
   "coingeckoId": "giveth",
 }
