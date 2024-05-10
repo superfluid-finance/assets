@@ -3,6 +3,7 @@
   "type": "ERC20",
   "svgIconPath": "/tokens/giv/icon.svg",
   "isSuperToken": false,
+  "coingeckoId": "giveth",
   "defaultColor":"#FFFFFF",
   "defaultPrice": 0,
   "roundCurrencyUpto": "2"
