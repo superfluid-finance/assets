@@ -5,5 +5,5 @@
   "svgIconPath": "/tokens/giv/icon.svg",
   "superTokenType": "ERC20_WRAPPER",
   "defaultColor":"#FFFFFF",
-  "coingeckoId": "giveth",
+  "coingeckoId": "giveth"
 }
