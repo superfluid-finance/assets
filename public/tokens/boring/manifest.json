@@ -2,7 +2,7 @@
   "version": "2021-05-18",
   "type": "ERC20",
   "isSuperToken": true,
-  "svgIconPath": "/tokens/boring/icon.png",
+  "svgIconPath": "/tokens/boring/icon.svg",
   "superTokenType": "CUSTOM",
   "superTokenCustomProperties": ["PRE_MINTED"],
   "defaultColor":"#000000",
