@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": false,
+  "svgIconPath": "/tokens/wsteth/icon.png",
+  "defaultColor":"#000000",
+  "coingeckoId": "",
+  "defaultPrice": 1,
+  "roundCurrencyUpto": "2"
+}
