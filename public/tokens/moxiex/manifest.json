@@ -1,0 +1,10 @@
+{
+  "version": "2021-05-18",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/moxie/icon.svg",
+  "superTokenType": "ERC20_WRAPPER",
+  "defaultColor":"#000000",
+  "defaultPrice": 1,
+  "coingeckoId": ""
+}
