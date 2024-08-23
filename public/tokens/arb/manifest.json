@@ -2,7 +2,7 @@
   "version": "2021-05-18",
   "type": "ERC20",
   "isSuperToken": false,
-  "svgIconPath": "/tokens/moxie/icon.svg",
+  "svgIconPath": "/tokens/arb/icon.svg",
   "defaultColor":"#000000",
   "coingeckoId": "",
   "defaultPrice": 1,
